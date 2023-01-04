@@ -62,3 +62,17 @@ hr {
 .profile {
     padding-top: 20px;
 }
+
+/* Icon Properties */
+
+#html-icon {
+    color: #E5632A;
+}
+
+#css-icon {
+    color: #189ED8;
+}
+
+#python-icon {
+    color: #F3C840;
+}
